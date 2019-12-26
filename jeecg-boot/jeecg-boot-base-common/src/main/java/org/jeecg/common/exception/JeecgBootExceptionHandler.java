@@ -1,6 +1,5 @@
 package org.jeecg.common.exception;
 
-import io.lettuce.core.RedisConnectionException;
 import org.apache.shiro.authz.AuthorizationException;
 import org.apache.shiro.authz.UnauthorizedException;
 import org.jeecg.common.api.vo.Result;
